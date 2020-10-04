@@ -1,0 +1,1 @@
+# Docker wasm-pack-tempalte
