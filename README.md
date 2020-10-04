@@ -1,1 +1,0 @@
-# Docker wasm-pack-template
